@@ -1,2 +1,1 @@
-Homework repo
-FOR UCLA ECE 102: Systems and Signals
+Homework repo for UCLA ECE 102: Systems and Signals
